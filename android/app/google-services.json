@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760875832530",
+    "project_id": "solo2duo-fddeb",
+    "storage_bucket": "solo2duo-fddeb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760875832530:android:70f7628736dd6cbc3fc90b",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH__EEFEHnhm7cQMoqhpSsqPr-4uLFMwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
